@@ -1,8 +1,9 @@
 # Analysis-and-design-of-missile-two-loop-autopilot-pitch
 
-a flight path rate demand two loop autopilot in pitch
+A flight path rate demand two loop autopilot in pitch
 plane called lateral autopilot is considered where the steady state gain
-of the autopilot system is non-unity .The present work is an attempt to
+of the autopilot system is non-unity .
+The present work is an attempt to
 achieve a unity steady state gain of the autopilot system which
 generates a flight path rate output for a flight path rate command. For
 this, a PI controller is introduced in the reduced order model of
