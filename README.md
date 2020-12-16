@@ -1,6 +1,6 @@
 # Analysis-and-design-of-missile-two-loop-autopilot-pitch
 
-# Control system course project
+# Control systems course project
 
 A flight path rate demand two loop autopilot in pitch
 plane called lateral autopilot is considered where the steady state gain
